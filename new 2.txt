@@ -1,0 +1,14 @@
+
+
+	- linked lists
+	list ADT
+		create an empty list
+		add items to list
+		delete list items
+		search for an item in list
+		
+		
+		
+	box with tail/arrow pointing to next node
+		always have node & pointer
+		

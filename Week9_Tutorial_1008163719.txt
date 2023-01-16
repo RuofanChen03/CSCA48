@@ -1,0 +1,24 @@
+
+- Mock interviews (put feedback)
+	1. clarification
+		questions regarding linked list (regular or not, order, actual type)
+	2. test cases
+		gave examples regarding how the function should behave (border cases)
+	3. implementations
+		wrote an implementation of the function
+	4. code
+		in the code, Laila made mistakes and was often hinted by the interviewer regarding mistakes
+	5. tracing
+		while testing and tracing through a test case, mistakes are realized and fixed
+	6. complexity
+		complexity is O(n) because it is 
+	- feedback
+		talk out loud & clarification at beginning is good
+		extra 1 in test case is great
+	
+	
+	- write a function that removes duplicates of a linked list
+		- asked about linked list
+		
+	- Mock interview practice (as interviewee)
+		

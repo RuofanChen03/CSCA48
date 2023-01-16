@@ -1,0 +1,13 @@
+
+	- midterm review
+		q1: can have * outside space
+		q4: a since it is not a pointer for a CDT
+		q10: o(nm^2)
+	- come up with a test question covering either section 4 or 5
+		Which of the following statements regarding a binary sorting tree is incorrect? (multiple choice)
+			a) When traversed left-right-middle, the BST values become sorted from least to greatest (false; post-order not inorder)
+			b) there cannot be a duplicate of key values by BST definition (false; not by definition but avoided due to ambiguity)
+			c) the complexity of building a BST is O(NlogN) (true)
+			d) the only situation where the height of the BST = N is when the values are inserted in increasing order (false; also same for decreasing order)
+	
+	
